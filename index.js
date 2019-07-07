@@ -1,6 +1,6 @@
 /* eslint-disable no-undef */
 const { app, BrowserWindow, ipcMain } = require("electron");
-const rpc = require("discord-rich-presence")("574263592908488705");
+const rpc = require("discord-rich-presence")("597555940685774868");
 const gameData = require("./games");  
 
 // For the love of God please let there be a better way of handling this

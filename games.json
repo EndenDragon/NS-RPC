@@ -38,6 +38,7 @@
             {"name" : "Crash Team Racing Nitro-Fueled", "img" : "ctr"},
             {"name" : "Collection of Mana", "img" : "com"},
             {"name" : "Cuphead", "img" : "ch"},
-            {"name" : "Mortal Kombat 11", "img" : "mk11"}
+            {"name" : "Mortal Kombat 11", "img" : "mk11"},
+            {"name" : "Fire Emblem Warriors", "img" : "few"}
         ]
 }
